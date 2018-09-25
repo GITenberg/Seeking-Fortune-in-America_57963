@@ -1,0 +1,25 @@
+_repo: Seeking-Fortune-in-America_57963
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Grey, Leopold John Herbert
+    gutenberg_agent_id: '49712'
+    url: http://www.gutenberg.org/2009/agents/49712
+creator:
+  author:
+    agent_name: Grey, Frederick William
+    gutenberg_agent_id: '49711'
+    url: http://www.gutenberg.org/2009/agents/49711
+description: ''
+gutenberg_issued: '2018-09-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57963'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Seeking Fortune in America
+url: http://www.gutenberg.org/ebooks/57963
