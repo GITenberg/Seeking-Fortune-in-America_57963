@@ -1,16 +1,21 @@
 _repo: Seeking-Fortune-in-America_57963
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Grey, Leopold John Herbert
     gutenberg_agent_id: '49712'
     url: http://www.gutenberg.org/2009/agents/49712
+covers:
+- cover_type: archival
+  image_path: 57963-h/images/cover.jpg
 creator:
   author:
     agent_name: Grey, Frederick William
     gutenberg_agent_id: '49711'
     url: http://www.gutenberg.org/2009/agents/49711
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57963#Seeking-Fortune-in-America
 gutenberg_issued: '2018-09-24'
 gutenberg_type: Text
 identifiers:
